@@ -10,7 +10,7 @@
 This repository serves as a structured personal knowledge base for:
 
 - Software Quality Assurance concepts and practices
-- Manual and automation testing workflows
+- Software Testing workflows
 - ISTQB CTFL-aligned learning and terminology
 - API, database, web, and mobile testing references
 - AI-assisted QA productivity systems
